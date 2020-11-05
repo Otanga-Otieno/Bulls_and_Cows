@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls_and_Cows.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls_and_Cows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat all strings without digits/Bulls_and_Cows.Problems-Concat_all_strings_without_digits.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Bulls_and_Cows.Problems-Move_the_first_N_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Bulls_and_Cows.Problems-Quadratic_equation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The lucky ticket/Bulls_and_Cows.Problems-The_lucky_ticket.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Bulls_and_Cows.Problems-The_percentage_of_G_and_C_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.test.iml" />
+    </modules>
+  </component>
+</project>
